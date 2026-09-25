@@ -1,0 +1,12 @@
+[submodule "FizzBuzzJAVA-vs"]
+	path = FizzBuzzJAVA-vs
+	url = https://github.com/Laboratorios-Generation-Mexico/FizzBuzzJAVA-vs.git
+[submodule "Trivia"]
+	path = Trivia
+	url = https://github.com/Laboratorios-Generation-Mexico/Trivia.git
+[submodule "CalculadoraMejorada"]
+	path = CalculadoraMejorada
+	url = https://github.com/Laboratorios-Generation-Mexico/CalculadoraMejorada.git
+[submodule "FizzBuzz"]
+	path = FizzBuzz
+	url = https://github.com/Laboratorios-Generation-Mexico/FizzBuzz.git
