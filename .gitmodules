@@ -13,3 +13,6 @@
 [submodule "sd-06-1_modified-2-"]
 	path = sd-06-1_modified-2-
 	url = https://github.com/Laboratorios-Generation-Mexico/sd-06-1_modified-2-.git
+[submodule "SD-04-1-ArraysLab-Individual-1.0-2-"]
+	path = SD-04-1-ArraysLab-Individual-1.0-2-
+	url = https://github.com/Laboratorios-Generation-Mexico/SD-04-1-ArraysLab-Individual-1.0-2-.git
