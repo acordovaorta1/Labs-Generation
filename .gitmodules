@@ -10,3 +10,6 @@
 [submodule "FizzBuzz"]
 	path = FizzBuzz
 	url = https://github.com/Laboratorios-Generation-Mexico/FizzBuzz.git
+[submodule "sd-06-1_modified-2-"]
+	path = sd-06-1_modified-2-
+	url = https://github.com/Laboratorios-Generation-Mexico/sd-06-1_modified-2-.git
