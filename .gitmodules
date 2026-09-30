@@ -19,3 +19,6 @@
 [submodule "SD-08-1-ClassesLab-Individual-1.0-1-"]
 	path = SD-08-1-ClassesLab-Individual-1.0-1-
 	url = https://github.com/Laboratorios-Generation-Mexico/SD-08-1-ClassesLab-Individual-1.0-1-.git
+[submodule "SD-12-1-Assessment-Individual"]
+	path = SD-12-1-Assessment-Individual
+	url = https://github.com/Laboratorios-Generation-Mexico/SD-12-1-Assessment-Individual.git
